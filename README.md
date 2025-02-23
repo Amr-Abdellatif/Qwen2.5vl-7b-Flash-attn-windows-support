@@ -1,4 +1,4 @@
-# Tutorial to get you started with QWEN2.5VL models with flash-attn suport on windows.
+# Tutorial to get you started with QWEN2.5VL models with flash-attn support on windows.
 
 ## Installation on windows
 
